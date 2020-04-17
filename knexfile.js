@@ -7,7 +7,7 @@ module.exports = {
     connection: {
       filename: './data/cookbook.sqlite3'
     },
-    migreations: {
+    migrations: {
       directory: './data/migrations'
     },
     seeds: {
